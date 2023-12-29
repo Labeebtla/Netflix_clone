@@ -44,4 +44,6 @@ app.*.map.json
 
 
 #ignore files (apikey)
-lib/infrastructure/api_key.dart
+api_key.dart
+/lib/infrastructure/api_key.dart
+
